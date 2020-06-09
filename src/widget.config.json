@@ -1,0 +1,8 @@
+{
+    "_comment": "Use this file to configure key and starting lat/long prior to running npm run build",
+    "config": {
+        "pt1": [43.613, -79.439],
+        "pt2": [43.681, -79.324],
+        "apiKey": ""
+    }
+}
